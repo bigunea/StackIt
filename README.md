@@ -1,4 +1,4 @@
-#StackIt
+# StackIt
 
 A single-user personal budget tracker desktop app. Register, create monthly budgets with a set income, log expenses against them by category, and see what you have left in real time.
 
